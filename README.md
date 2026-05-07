@@ -112,20 +112,14 @@ goals:
 ## 📊 `$ git log --stat`
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mensur7337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=4a9eff&text_color=c9d1d9&border_radius=6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mensur7337&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffc8&fire=4a9eff&currStreakLabel=00ffc8&border_radius=6" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mensur7337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=4a9eff&text_color=c9d1d9&border_radius=6&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Mensur7337&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffc8&fire=4a9eff&currStreakLabel=00ffc8&border_radius=6" />
 <br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mensur7337&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9&border_radius=6&langs_count=8" />
-
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mensur7337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9&border_radius=6&langs_count=8&cache_seconds=86400" />
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mensur7337&theme=tokyonight&utcOffset=3" />
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mensur7337&bg_color=0d1117&color=00ffc8&line=4a9eff&point=00ffc8&area=true&area_color=00ffc820&hide_border=true&radius=6" />
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mensur7337&theme=tokyonight" />
 </div>
-
 ---
 
 <!-- PROJECTS -->
