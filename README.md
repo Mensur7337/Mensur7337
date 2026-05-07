@@ -151,17 +151,17 @@ goals:
 ## 🏆 `$ cat achievements.txt`
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                      ACHIEVEMENT UNLOCKED                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🏆  TEKNOFEST 2024  →  Blockchain Yarışması — FİNALİST          ║
-║  🏆  TEKNOFEST 2023  →  Eğitim, Tarım & Turizm — FİNALİST       ║
-║  🥇  TÜBİTAK 2242   →  Eğitim Kategorisi — BİRİNCİ              ║
-║  💻  TÜBİTAK BİLGEM →  Staj Programı — TAMAMLANDI               ║
-║  🎓  Kastamonu Üni. →  Bilgisayar Mühendisliği — DEVAM EDİYOR   ║
-║  🛡️  Cyber Security  →  Blockchain Araştırmacısı                 ║
-║  🚀  Full Stack Dev  →  AI Entegrasyonlu Uygulama Geliştirici    ║
-╚══════════════════════════════════════════════════════════════════╝
+                        ╔══════════════════════════════════════════════════════════════════╗
+                        ║                      ACHIEVEMENT UNLOCKED                        ║
+                        ╠══════════════════════════════════════════════════════════════════╣
+                        ║  🏆  TEKNOFEST 2024  →  Blockchain Yarışması — FİNALİST          ║
+                        ║  🏆  TEKNOFEST 2023  →  Eğitim, Tarım & Turizm — FİNALİST        ║
+                        ║  🥇  TÜBİTAK 2242   →  Eğitim Kategorisi — BİRİNCİ               ║
+                        ║  💻  TÜBİTAK BİLGEM →  Staj Programı — TAMAMLANDI                ║
+                        ║  🎓  Kastamonu Üni. →  Bilgisayar Mühendisliği — DEVAM EDİYOR    ║
+                        ║  🛡️  Cyber Security  →  Blockchain Araştırmacısı                 ║
+                        ║  🚀  Full Stack Dev  →  AI Entegrasyonlu Uygulama Geliştirici    ║
+                        ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -179,7 +179,6 @@ goals:
 
 </div>
 
-> **Not:** Snake animasyonu için repo'na bir GitHub Actions workflow eklemen gerekiyor. Aşağıdaki `snake_workflow.yml` dosyasını `.github/workflows/` klasörüne koy.
 
 ---
 
